@@ -45,7 +45,7 @@ class _PageState extends State<Hireath> {
               border: OutlineInputBorder(
                   borderSide: BorderSide.none,
                   borderRadius: BorderRadius.circular(30)
-              ), hintText: 'Type to enter',
+              ), hintText: 'Type to Enter',
               labelText: 'Height',
             ),
           ),
@@ -60,8 +60,8 @@ class _PageState extends State<Hireath> {
                     borderSide: BorderSide.none,
                     borderRadius: BorderRadius.circular(30)
                 ),
-                labelText: 'weight',
-                hintText: 'Type to enter'),
+                labelText: 'Weight',
+                hintText: 'Type to Enter'),
           ),
           TextButton(
               onPressed: (){
